@@ -7,4 +7,5 @@ Project learnings:
 -Made workforce more productive.                    
 -Gained employee trust.                               
 I have also uploaded the datasets used by me and the wallpapers used for background enhancement.                   
-The .pbix file has also been uploaded which can be previewed after downloading.                                                         
+The .pbix file has also been uploaded which can be previewed after downloading.                 
+Please keep in mind that the data has been transformed in the dataset to generate some special visualizations.

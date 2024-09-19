@@ -1,5 +1,8 @@
 # HR-Data-Analytics-Power-BI              
-I generated a Power BI dashboard for online sales data.                   
+I generated a Power BI dashboard for online sales data.  
+
+You can view live demo here at: https://app.powerbi.com/view?r=eyJrIjoiZWJjZjRjZjEtNjM3YS00ZGIwLWExYTUtZjQ2ZDZjZWFlMzAwIiwidCI6ImQ5OTlmMTM5LTY5NzEtNDQzZC1hMTE2LTJmYTBlOWZlZDNhZSJ9
+
 Project learnings:                          
 -Identified key factors to reduce attrition.                    
 -Improved the hiring process.                        
